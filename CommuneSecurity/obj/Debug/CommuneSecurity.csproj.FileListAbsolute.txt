@@ -1,0 +1,6 @@
+D:\Projects INA\CommuneMonitoring\CommuneServer\CommuneSecurity\bin\Debug\CommuneSecurity.dll
+D:\Projects INA\CommuneMonitoring\CommuneServer\CommuneSecurity\bin\Debug\CommuneSecurity.pdb
+D:\Projects INA\CommuneMonitoring\CommuneServer\CommuneSecurity\obj\Debug\CommuneSecurity.csproj.AssemblyReference.cache
+D:\Projects INA\CommuneMonitoring\CommuneServer\CommuneSecurity\obj\Debug\CommuneSecurity.csproj.CoreCompileInputs.cache
+D:\Projects INA\CommuneMonitoring\CommuneServer\CommuneSecurity\obj\Debug\CommuneSecurity.dll
+D:\Projects INA\CommuneMonitoring\CommuneServer\CommuneSecurity\obj\Debug\CommuneSecurity.pdb
